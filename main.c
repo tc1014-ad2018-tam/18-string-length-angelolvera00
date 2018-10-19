@@ -1,6 +1,6 @@
 /*This program was created for the purpose of asking the user to enter a string and the program will check its length.
  *
- * Author: Angel Daniel Olvera Perales
+ * Author: Angel Daniel Olvera Perales.
  * Date: October 17
  * email:angelolvera00@gmail.com
  */
