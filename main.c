@@ -1,4 +1,4 @@
-/*This program was created for the purpose of asking the user to enter a string and the program will check its length
+/*This program was created for the purpose of asking the user to enter a string and the program will check its length.
  *
  * Author: Angel Daniel Olvera Perales
  * Date: October 17
